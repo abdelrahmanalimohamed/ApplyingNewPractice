@@ -1,6 +1,6 @@
 # CQRS-Based API with BuildingBlocks and Product.API
 
-This repository demonstrates a modular and extensible CQRS (Command Query Responsibility Segregation) pattern-based implementation using .NET 7, MediatR, and ICarter for building APIs. The project is divided into two main projects:
+This repository demonstrates a modular and extensible CQRS (Command Query Responsibility Segregation) pattern-based implementation using .NET 8, MediatR, and ICarter for building APIs. The project is divided into two main projects:
 
 - **BuildingBlocks**: A reusable library that defines core abstractions and patterns (e.g., CQRS interfaces).
 - **Product.API**: An example implementation of a product API (minimal api) using the abstractions defined in BuildingBlocks.
