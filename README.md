@@ -10,8 +10,7 @@ This repository demonstrates a modular and extensible CQRS (Command Query Respon
 - **CQRS Pattern**: Separation of commands and queries for better scalability and maintainability.
 - **MediatR Integration**: Simplifies the implementation of handlers for commands and queries.
 - **ICarter**: Lightweight, modular routing for ASP.NET Core.
-- **EF Core**: Integration with Entity Framework Core for database operations.
-- **Clean Architecture**: Separation of concerns between reusable libraries and API implementation.
+- **EF Core**: Integration with Entity Framework Core In Memory for database operations.
 
 ## Project Structure
 
